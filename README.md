@@ -55,13 +55,6 @@ To set up the Client Transaction Forecasting project locally, follow these steps
    ```bash
    pip install -r requirements.txt
 
-## Usage
-To run the application, use the following command:
-```bash
-   streamlit run app.py
-
-After running the command, open your web browser and navigate to http://localhost:8501 to access the application.
-
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and create a pull request.
 
