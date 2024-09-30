@@ -50,3 +50,24 @@ To set up the Client Transaction Forecasting project locally, follow these steps
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Kanan-Bedi/User-Transaction-Forecasting.git]
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+To run the application, use the following command:
+```bash
+   streamlit run app.py
+
+After running the command, open your web browser and navigate to http://localhost:8501 to access the application.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or features, please fork the repository and create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
